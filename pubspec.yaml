@@ -1,8 +1,8 @@
 name: 'gamee_example_project'
 version: 0.0.1
-description: An absolute bare-bones web app.
-#author: Your Name <email@example.com>
-#homepage: https://www.example.com
+description: An example aplication using gamee dart library.
+author: Mlčoch Zdeněk <mlcoch.zdenek@gmail.com>
+homepage: http://gameeapp.com
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
